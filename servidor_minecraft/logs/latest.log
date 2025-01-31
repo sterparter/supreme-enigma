@@ -101,3 +101,9 @@
 [31Jan2025 21:03:15.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tincholel10 has made the advancement [Monster Hunter]
 [31Jan2025 21:03:52.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tincholel10 has made the advancement [Diamonds!]
 [31Jan2025 21:05:24.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sterparter fell from a high place
+[31Jan2025 21:06:31.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tincholel10 lost connection: Disconnected
+[31Jan2025 21:06:31.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tincholel10 left the game
+[31Jan2025 21:11:03.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sterparter lost connection: Disconnected
+[31Jan2025 21:11:03.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sterparter left the game
+[31Jan2025 21:12:13.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sterparter[/127.204.21.198:52337] logged in with entity id 29322 at (-109.46535973808977, -40.0, 3202.300000011921)
+[31Jan2025 21:12:13.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sterparter joined the game
