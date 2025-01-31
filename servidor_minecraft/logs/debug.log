@@ -946,3 +946,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Jan2025 20:49:48.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Jan2025 20:54:48.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Jan2025 20:54:48.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 20:55:32.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tincholel10> zz
+[31Jan2025 20:55:32.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tincholel10> z
+[31Jan2025 20:55:32.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tincholel10> z
+[31Jan2025 20:56:55.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sterparter was slain by tincholel10
+[31Jan2025 20:57:13.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sterparter has made the advancement [Isn't It Iron Pick]
+[31Jan2025 20:58:20.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tincholel10 has made the advancement [Stone Age]
+[31Jan2025 20:59:48.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 20:59:48.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 20:59:59.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sterparter has made the advancement [Diamonds!]
+[31Jan2025 21:03:15.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tincholel10 has made the advancement [Monster Hunter]
+[31Jan2025 21:03:52.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tincholel10 has made the advancement [Diamonds!]
+[31Jan2025 21:04:48.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 21:04:48.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 21:05:24.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sterparter fell from a high place
