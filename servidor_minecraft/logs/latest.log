@@ -107,3 +107,10 @@
 [31Jan2025 21:11:03.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sterparter left the game
 [31Jan2025 21:12:13.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sterparter[/127.204.21.198:52337] logged in with entity id 29322 at (-109.46535973808977, -40.0, 3202.300000011921)
 [31Jan2025 21:12:13.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sterparter joined the game
+[31Jan2025 21:16:19.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sterparter has made the advancement [Suit Up]
+[31Jan2025 21:18:03.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Jan2025 21:18:03.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Jan2025 21:18:03.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sterparter lost connection: Server closed
+[31Jan2025 21:18:03.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sterparter left the game
+[31Jan2025 21:18:03.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Jan2025 21:18:06.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
